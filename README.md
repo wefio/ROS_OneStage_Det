@@ -18,7 +18,7 @@
 
 环境使用Ubuntu22.04，ROS2 Humble，Ultralytics-8.3.110，PyTorch12.8。测试场景使用自己搭建的地图<br>
 <video width="640" height="360" controls>
-  <source src="[video.mp4](https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4)" type="video/mp4">
+  <source src="https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4" type="video/mp4">
   你的浏览器不支持视频标签。
 </video>
 
