@@ -1,0 +1,9 @@
+yolo_detector_node:
+  ros__parameters:
+    model_path: "yolo11n.pt" #更换模型之前保存跑完的数据，否则会覆盖
+    conf_threshold: 0.5
+    iou_threshold: 0.5
+    save_dir: "yolo_raw"
+    image_topic: "/camera/image_raw"
+    publish_topic: "/yolo/detection_result"
+    publish_freq: 10.0

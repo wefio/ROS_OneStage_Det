@@ -1,0 +1,54 @@
+
+Benchmarks complete for yolo11n.pt on datasets/coco8/coco8.yaml at imgsz=640 (164.74s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)    FPS
+0                 PyTorch       ✅        5.4               0.6176                   42.94  23.29
+1             TorchScript       ✅       10.5               0.6083                   33.92  29.48
+2                    ONNX       ✅       10.2               0.6083                   16.66  60.01
+3                OpenVINO       ❌        0.0                  NaN                     NaN    NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN    NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN    NaN
+6   TensorFlow SavedModel       ✅       25.8               0.6082                   96.88  10.32
+7     TensorFlow GraphDef       ✅       10.3               0.6082                  131.27   7.62
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN    NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN    NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN    NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN    NaN
+12                    MNN       ✅       10.1               0.6082                   32.42  30.84
+13                   NCNN       ✅       10.2               0.6082                   52.72  18.97
+14                    IMX       ❌        0.0                  NaN                     NaN    NaN
+
+Benchmarks complete for yolo11n.pt on datasets/coco8/coco8.yaml at imgsz=640 (145.97s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        5.4               0.6176                   42.82   23.35
+1             TorchScript       ✅       10.5               0.6083                    6.87  145.53
+2                    ONNX       ✅       10.2               0.6082                   10.80   92.58
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅       25.8               0.6082                  155.03    6.45
+7     TensorFlow GraphDef       ✅       10.3               0.6082                  127.36    7.85
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN     NaN
+12                    MNN       ✅       10.1               0.6082                   39.59   25.26
+13                   NCNN       ✅       10.2               0.6082                   53.00   18.87
+14                    IMX       ❌        0.0                  NaN                     NaN     NaN
+
+Benchmarks complete for yolo11n.pt on datasets/coco8/coco8.yaml at imgsz=640 (402.63s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)    FPS
+0                 PyTorch       ✅        5.4               0.6176                   62.90  15.90
+1             TorchScript       ✅       10.5               0.6100                   35.23  28.38
+2                    ONNX       ✅       10.2               0.6100                   45.42  22.01
+3                OpenVINO       ❌        0.0                  NaN                     NaN    NaN
+4                TensorRT       ✅       18.9               0.6082                   39.02  25.63
+5                  CoreML       ❌        0.0                  NaN                     NaN    NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN    NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN    NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN    NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN    NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN    NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN    NaN
+12                    MNN       ✅       10.1               0.6082                   45.64  21.91
+13                   NCNN       ✅       10.2               0.6082                   79.03  12.65
+14                    IMX       ❌        0.0                  NaN                     NaN    NaN

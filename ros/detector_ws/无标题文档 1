@@ -1,0 +1,10 @@
+cd detector_ws
+colcon build
+source install/local_setup.bash
+ros2 launch benchmark city.launch.py
+export TURTLEBOT3_MODEL=waffle_pi
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+
+
+有问题进src/benchmark里改
+ 

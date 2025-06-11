@@ -1,0 +1,19 @@
+epoch:0 0.2278  0.3732  0.2439  0.1017  0.1709  0.2541  0.3605  0.5408  0.5551  0.3007  0.4631  0.6019  0.8649  0.005000
+epoch:1 0.3946  0.6219  0.4315  0.1745  0.2760  0.4400  0.4116  0.6084  0.6275  0.3640  0.5255  0.6730  0.5951  0.005000
+epoch:2 0.4230  0.6496  0.4563  0.1785  0.3050  0.4644  0.4223  0.6189  0.6367  0.3829  0.5442  0.6777  0.4929  0.005000
+epoch:3 0.5099  0.7429  0.5549  0.2096  0.3679  0.5645  0.4595  0.6624  0.6818  0.3730  0.5755  0.7302  0.3498  0.001650
+epoch:4 0.5235  0.7612  0.5682  0.2160  0.3929  0.5770  0.4625  0.6673  0.6872  0.4039  0.5923  0.7327  0.2998  0.001650
+
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.523
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.761
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.568
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.216
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.393
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.577
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.463
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.667
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.687
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.404
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.592
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.733

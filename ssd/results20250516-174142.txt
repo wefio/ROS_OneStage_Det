@@ -1,0 +1,23 @@
+epoch:0 0.2593  0.4093  0.2839  0.0282  0.1182  0.3095  0.3227  0.4007  0.4027  0.0471  0.2058  0.4696  6.0243  0.0005
+epoch:1 0.3479  0.5664  0.3761  0.052  0.1904  0.4156  0.3662  0.4884  0.494  0.0888  0.3044  0.5607  3.9761  0.0005
+epoch:2 0.3734  0.6164  0.3969  0.0529  0.2062  0.4425  0.3797  0.5103  0.5173  0.103  0.3315  0.5862  3.559  0.0005
+epoch:3 0.3912  0.6492  0.4171  0.0523  0.219  0.4669  0.3905  0.5276  0.535  0.1188  0.3595  0.6053  3.342  0.0005
+epoch:4 0.4069  0.6654  0.4387  0.0639  0.2391  0.4789  0.3971  0.5325  0.5389  0.1162  0.3686  0.6117  3.1258  0.0005
+epoch:5 0.4293  0.6916  0.4619  0.0753  0.2613  0.5002  0.4073  0.5514  0.559  0.1365  0.4001  0.6262  2.94  0.00015
+epoch:6 0.4333  0.6959  0.4698  0.0809  0.2668  0.504  0.411  0.556  0.5635  0.1385  0.4057  0.6301  2.8625  0.00015
+epoch:7 0.4367  0.703  0.4743  0.083  0.2672  0.508  0.4113  0.5574  0.5652  0.1474  0.4069  0.6328  2.8304  0.00015
+
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.437
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.474
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.083
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.267
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.508
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.411
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.557
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.565
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.147
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.407
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.633
+ Epoch: [7]  [357/358]  eta: 0:00:00.358828  lr: 0.000150  total_losses: 3.7225 (2.8304)  time: 0.2896  data: 0.0019  max mem: 4037

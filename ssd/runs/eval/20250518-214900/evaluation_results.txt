@@ -1,0 +1,41 @@
+COCO results:
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.375
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.588
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.409
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.049
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.448
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.388
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.512
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.518
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.090
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.320
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.592
+
+Performance Metrics:
+Total images processed: 5823
+Total inference time: 46.5669 seconds
+Average inference time per image: 0.0080 seconds
+FPS: 125.05
+
+mAP(IoU=0.5) for each category:
+ aeroplane      : 0.8464617763825664
+ bicycle        : 0.63210747835428
+ bird           : 0.7193657581994483
+ boat           : 0.40328000972340433
+ bottle         : 0.3647403345519841
+ bus            : 0.6940421789224478
+ car            : 0.739534978199165
+ cat            : 0.8535945788992884
+ chair          : 0.4177362272404855
+ cow            : 0.42946349188197286
+ diningtable    : 0.13620737360260024
+ dog            : 0.7681199271714074
+ horse          : 0.5803872092819331
+ motorbike      : 0.5830634986709069
+ person         : 0.8288943605646087
+ pottedplant    : 0.3086106226828351
+ sheep          : 0.5875262881203323
+ sofa           : 0.46798187666712826
+ train          : 0.7401182089063492
+ tvmonitor      : 0.654086095001615

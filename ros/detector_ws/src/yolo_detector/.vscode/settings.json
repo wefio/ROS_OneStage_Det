@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ros/yolo_ws/install/benchmark/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_urdf/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_topic/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_tf/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_service/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_qos/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_pkg_python/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_parameter/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_node/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_launch/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_action/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_interface/local/lib/python3.10/dist-packages",
+        "/home/ros/guyue_ros_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_gazebo/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_cv/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros/yolo_ws/install/benchmark/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_urdf/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_topic/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_tf/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_service/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_qos/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_pkg_python/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_parameter/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_node/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_launch/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_action/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_interface/local/lib/python3.10/dist-packages",
+        "/home/ros/guyue_ros_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_gazebo/lib/python3.10/site-packages",
+        "/home/ros/guyue_ros_ws/install/learning_cv/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
