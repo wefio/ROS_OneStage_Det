@@ -18,13 +18,9 @@
 
 环境使用Ubuntu22.04，ROS2 Humble，Ultralytics-8.3.110，PyTorch12.8。测试场景使用自己搭建的地图<br>
 
-[演示视频](https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4)
-<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
-<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
-<video id="player" playsinline controls>
-  <source src="https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4" type="video/mp4">
-</video>
-<script>const player = new Plyr('#player');</script>
+https://github.com/user-attachments/assets/817b2732-a5e7-4743-a8a7-d75ed247cf07
+
+
 
 ## 模型训练
 
