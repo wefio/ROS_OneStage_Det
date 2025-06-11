@@ -18,7 +18,7 @@
 
 环境使用Ubuntu22.04，ROS2 Humble，Ultralytics-8.3.110，PyTorch12.8。测试场景使用自己搭建的地图<br>
 
-<video src="https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4" controls></video>
+[演示视频](https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4)
 
 ## 模型训练
 
