@@ -159,12 +159,12 @@ Github：https://github.com/guyuehome/ros2_21_tutorials
 #### 目录结构
 
 ros     
-     |--detector_ws			工作区     
-     |--src				代码包     
-          |--benchmark		地图 没错，这里是地图，名字是瞎起的     
-          |--retina_detector	retina     
-          |--ssd_detector		ssd     
-          |--yolo_detector	yolo     
+	|--detector_ws			工作区     
+	|--src				代码包     
+		|--benchmark		地图 没错，这里是地图，名字是瞎起的     
+		|--retina_detector	retina     
+		|--ssd_detector		ssd     
+		|--yolo_detector	yolo     
 
 
 ### world地图
