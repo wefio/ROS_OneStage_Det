@@ -159,15 +159,17 @@ Github：https://github.com/guyuehome/ros2_21_tutorials
 #### 目录结构
 
 ros
-	|--detector_ws			工作区
-	|--src					代码包
-		|--benchmark		地图 没错，这里是地图，名字是瞎起的
-		|--retina_detector	retina
-		|--ssd_detector		ssd
-		|--yolo_detector		yolo
+	|--detector_ws			工作区     
+	|--src				代码包     
+		|--benchmark		地图 没错，这里是地图，名字是瞎起的     
+		|--retina_detector	retina     
+		|--ssd_detector		ssd     
+		|--yolo_detector	yolo     
 
 
 ### world地图
+![image](https://github.com/user-attachments/assets/02351ec4-9422-41ca-baca-9a38f37f5e96)
+![image](https://github.com/user-attachments/assets/9e9603ac-4335-41ae-b45d-3b9108534f76)
 
 ```bash
 cd detector_ws
