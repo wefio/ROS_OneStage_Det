@@ -17,10 +17,8 @@
 主要将Ultralytics、SSD、RetinaNet分别训练、缝了个ROS节点、进行简单的性能测试。<del>结论为YOLO以外的那俩在算力比较差的环境下可以埋了，根本跑不动。</del><br>
 
 环境使用Ubuntu22.04，ROS2 Humble，Ultralytics-8.3.110，PyTorch12.8。测试场景使用自己搭建的地图<br>
-<video width="640" height="360" controls>
-  <source src="https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4" type="video/mp4">
-  你的浏览器不支持视频标签。
-</video>
+
+<video src="https://github.com/wefio/ROS_OneStage_Det/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C/one-stage_1_2025.5.30-13.48.17.mp4" controls></video>
 
 ## 模型训练
 
