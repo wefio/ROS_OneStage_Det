@@ -288,3 +288,9 @@ Python基础：https://space.bilibili.com/3546660493855256/lists/4227087
 晚上12点后使用deepseek，不会出现 服务器繁忙，请稍后再试
 
 文献管理工具推荐：Zotero
+
+# 本项目的建立离不开开源社区
+https://github.com/ultralytics/ultralytics<br>
+https://github.com/WZMIAOMIAO/deep-learning-for-image-processing<br>
+https://github.com/ROBOTIS-GIT/turtlebot3_simulations<br>
+[小鱼的一键安装系列](https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97)<br>
