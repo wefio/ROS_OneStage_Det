@@ -289,7 +289,7 @@ Python基础：https://space.bilibili.com/3546660493855256/lists/4227087
 
 文献管理工具推荐：Zotero
 
-# 本项目的建立离不开开源社区
+# 本项目的建立离不开社区的支持
 https://github.com/ultralytics/ultralytics<br>
 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing<br>
 https://github.com/ROBOTIS-GIT/turtlebot3_simulations<br>
