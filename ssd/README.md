@@ -1,5 +1,5 @@
 # SSD: Single Shot MultiBox Detector
-## [以下内容来自]https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+## [以下内容来自](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
 ## 环境配置：
 * Python 3.6/3.7/3.8
